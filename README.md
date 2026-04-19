@@ -1,4 +1,4 @@
-# 🎮 AULauncher (not made by your friend claude)
+# 🎮 AULauncher
 
 A modern, lightweight mod launcher for Among Us that allows you to easily download and switch between different mod presets.
 
@@ -67,4 +67,6 @@ dotnet build -c Release
 dotnet publish -c Release --self-contained true -r win-x64 /p:PublishSingleFile=true
 
 # Output location:
-# bin/Release/net8.0-windows/win-x64/publish/AULauncher.exe
+# bin/Release/net8.0-windows/win-x64/publish/AULauncher.exe```
+
+- (not made by your friend claude)
