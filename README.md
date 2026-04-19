@@ -11,7 +11,7 @@ A modern, lightweight mod launcher for Among Us that allows you to easily downlo
 ## 🚀 Download
 
 ### Latest Release
-Download the latest version from the [Releases page](https://github.com/mehzxzz/aulauncher/releases)
+Download the [latest version](https://github.com/Mehzxzz/aulauncher/releases/tag/1.0) from the [Releases page](https://github.com/mehzxzz/aulauncher/releases)
 
 **System Requirements:**
 - Windows 10/11
