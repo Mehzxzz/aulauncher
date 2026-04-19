@@ -16,7 +16,7 @@ Download the latest version from the [Releases page](https://github.com/mehzxzz/
 **System Requirements:**
 - Windows 10/11
 - Among Us installed (Only steam is supported currently)
-- .NET 8.0 Runtime
+- .NET 8.0 Runtime (Compiled with the launcher)
 
 ## 📖 Usage
 
