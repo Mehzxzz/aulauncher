@@ -18,15 +18,14 @@ Download the [latest version](https://github.com/Mehzxzz/aulauncher/releases/tag
 - Among Us installed (Only steam is supported currently)
 - .NET 8.0 Runtime (Compiled with the launcher)
 
-## 📖 Usage
-
-### First Time Setup
-
-1. **Download** `AULauncher.exe` from the Releases page
-2. **Run** the application (no installation required)
-3. **Navigate to Settings** (⚙️ icon in sidebar)
-4. **Select your Among Us folder** (the one containing `Among Us.exe`)
-5. **Click "Save Path"**
+## 📖 How to use
+### Install
+1. **Download** `AULauncher_steam-win-x64.zip` from the Releases page
+2. **Extract** the zip file
+3. **Run** the application (AULauncher.exe)
+4. **Navigate to Settings** (⚙️ icon in sidebar)
+5. **Select your Among Us folder** (the one containing `Among Us.exe`)
+6. **Click "Save Path"**
 
 ### Loading a Preset
 
@@ -36,12 +35,5 @@ Download the [latest version](https://github.com/Mehzxzz/aulauncher/releases/tag
 4. **Enter password** if required
 5. **Wait for download and installation**
 6. **Game launches automatically**
-
-### Filtering Presets
-
-Use the filter buttons at the top of the Library page:
-- **All** - Shows all available presets
-- **🔒 Locked** - Shows only password-protected presets
-- **🔓 Unlocked** - Shows only open presets (recommended)
 
 **(totally not made by your friend claude)**
