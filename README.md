@@ -44,4 +44,4 @@ Use the filter buttons at the top of the Library page:
 - **🔒 Locked** - Shows only password-protected presets
 - **🔓 Unlocked** - Shows only open presets (recommended)
 
-- (not made by your friend claude)
+**(totally not made by your friend claude)**
